@@ -1,12 +1,13 @@
 # OS-LAB
 
-##SHELL PROGRAMMING
+## SHELL SCRIPTING
 ### ASSIGNMENT 01
 1. Print hello with person name.
-2. Add two numbers using `expr` and `seq`.
+2. Add two numbers using `expr` and `arithmetic expansion`.
 3. Check whether two numbers are equal or not.
-4. Read 3 numbers and then compare it 
-5. Addition of first n natural numbers. Where n is the input.
+4. Print numbers in a specified range with the help of `for loop` and `seq`.
+5. Read 3 numbers and then compare it. 
+6. Addition of first n natural numbers. Where n is the input.
 
 ### ASSIGNMENT 02
 1. Implement a code for switch case. Also show implementation of pipe. 
@@ -17,7 +18,7 @@
 6. Check whether a string is palindrome or not.
 7. Prepare a scientific calculator using switch case.
 
-##SYSTEMS PROGRAMMING
+## SYSTEMS PROGRAMMING
 ### ASSIGNMENT 03
 1. Implement fork to create child process and parent process , extract there PID and PPID  also verify them.
 2. Write a code to implement the orphan process.
