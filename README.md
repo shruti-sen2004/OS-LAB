@@ -1,6 +1,6 @@
 # OS-LAB
 
-##SHELL PROGRAMMING
+## SHELL PROGRAMMING
 ### ASSIGNMENT 01
 1. Print hello with person name.
 2. Add two numbers using `expr` and `seq`.
@@ -17,7 +17,7 @@
 6. Check whether a string is palindrome or not.
 7. Prepare a scientific calculator using switch case.
 
-##SYSTEMS PROGRAMMING
+## SYSTEMS PROGRAMMING
 ### ASSIGNMENT 03
 1. Implement fork to create child process and parent process , extract there PID and PPID  also verify them.
 2. Write a code to implement the orphan process.
