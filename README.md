@@ -31,3 +31,8 @@
 4. Write a C program that can shutdown the system.
 5. Write a C program that can reboot the system.
 
+### ASSIGNMENT 05
+1. Implement pipe within a single process. (Simplex)
+2. Implement a pipe that will be shared by parent and child process. (Simplex)
+3. Implement a half duplex pipe or pipe in half duplex mode for parent and child process.(Half Duplex)
+4. Implement binary semaphore to solve the problem of producer - consumer, assume that there is 1 producer and 1 consumer.
