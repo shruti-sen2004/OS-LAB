@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 function prime() {
-    num=$i 
-    if [ $num -lt 2 ]; then
+    num=$1
+    if [ "$num" -lt 2 ]; then
     echo "$num is not prime"
     else
         for ((i=2; i<= num/2 ; i++)); do
